@@ -1,0 +1,64 @@
+[33mcommit 050fe1515b13485e15926fc7ae0515aaebdd697b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Алексей Николаев <a2.nikolaev@yandex.ru>
+Date:   Sat Aug 5 14:13:34 2023 +0300
+
+    Delete new file
+
+[33mcommit 51406a0c1423e867fba46bfcff3ec18307e39158[m
+Author: Алексей Николаев <a2.nikolaev@yandex.ru>
+Date:   Sat Aug 5 14:12:12 2023 +0300
+
+    Add new file
+
+[33mcommit 19bc2c4465d9a7496974d335c6da7e3f69f8fe5d[m
+Author: Алексей Николаев <a2.nikolaev@yandex.ru>
+Date:   Sat Aug 5 14:06:56 2023 +0300
+
+    Add new files
+
+[33mcommit f74fd26bbb3f5ce493a5d7f2b4dc5f86c373c6c7[m
+Author: Алексей Николаев <a2.nikolaev@yandex.ru>
+Date:   Sat Aug 5 13:54:41 2023 +0300
+
+    My first commit
+
+[33mcommit bda5c41d014b6d64080d4220d744a05bea96978d[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Fri Oct 22 12:46:24 2021 +0300
+
+    Delete .gitignore
+    
+    Студенты должны самостоятельно создавать и наполнять этот файл.
+
+[33mcommit a8a17725e512be95f88d6ba6ab2f07d88d56db03[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Jun 2 12:00:52 2021 +0300
+
+    fixed tests launch
+
+[33mcommit d0bc9ed2155193a0fd4f4cf585e26371ced8ed3e[m
+Merge: 5757a20 5f83f04
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Mon Apr 5 08:48:01 2021 +0300
+
+    Merge pull request #11 from TurboKach/master
+    
+    changes
+
+[33mcommit 5f83f04d266e46abc40ab81787fef58ca1fd62bc[m
+Author: TurboKach <incognito@turbokach.me>
+Date:   Thu Apr 1 13:58:05 2021 +0300
+
+    2pac - changes
+
+[33mcommit 5757a2037d69aae4714dde5879914e0d9aa89742[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Dec 11 14:15:14 2019 +0300
+
+    Create program.py
+
+[33mcommit fcbbab91fe56456ec6f5d90102b10899359604c1[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Dec 11 14:14:10 2019 +0300
+
+    Initial commit
